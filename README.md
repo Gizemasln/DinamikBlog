@@ -1,0 +1,2 @@
+# DinamikBlog
+ Dinamik Blog Projesi
